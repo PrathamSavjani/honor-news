@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bbc-news",
+    "imageUrl": "https://i.postimg.cc/CLYSb9Xq/BBC-News.png",
+    "name": "BBC News",
+    "description": "BBC News (also known as the BBC News Channel) is a British free-to-air television news channel for BBC News. The service maintains 50 foreign news bureaus"
+  },
+  {
+    "id": "the-times-of-india",
+    "imageUrl": "https://i.postimg.cc/FKqhczXr/toi.png",
+    "name": "The Times Of India",
+    "description": "The Times of India (also known by its abbreviation TOI) is an Indian English-language daily newspaper and digital news media"
+  },
+  {
+    "id": "the-hindu",
+    "imageUrl": "https://i.postimg.cc/sxCy6L2b/TheHindu.png",
+    "name": "The Hindu",
+    "description": "The Hindu is an English-language, Indian daily newspaper owned by The Hindu Group, headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "id": "the-washington-post",
+    "imageUrl": "https://i.postimg.cc/C5C0W4B5/washington-post.png",
+    "name": "The Washington Post",
+    "description": "The Washington Post (also known as the Post and, informally, WaPo) is an American daily newspaper published in Washington, D.C."
+  },
+  {
+    "id": "time",
+    "imageUrl": "https://i.postimg.cc/vZZyNfQ8/time.png",
+    "name": "TIME",
+    "description": "Time is an American news magazine and news website published and based in New York City."
+  },
+  {
+    "id": "reuters",
+    "imageUrl": "https://i.postimg.cc/vZ0YYXP6/reuters.png",
+    "name": "Reuters",
+    "description": "Reuters is a news agency owned by Thomson Reuters. It employs around 2,500 journalists and 600 photojournalists in about 200 locations worldwide."
+  },
+  {
+    "id": "national-geographic",
+    "imageUrl": "https://i.postimg.cc/s21VvS8H/ng.jpg",
+    "name": "National Geographic",
+    "description": "National Geographic (formerly the National Geographic Magazine) is a popular American monthly magazine."
+  },
+  {
+    "id": "the-lad-bible",
+    "imageUrl": "https://i.postimg.cc/V6CmFwzj/LADbible.jpg",
+    "name": "The Lad Bible",
+    "description": "LADbible Group part of LBG Media is a British digital publisher. Its headquarters are in Manchester."
+  },
+  {
+    "id": "cnn",
+    "imageUrl": "https://i.postimg.cc/SK7QJ1Qd/CNN.png",
+    "name": "CNN News",
+    "description": "The Cable News Network (CNN) is a multinational cable news channel headquartered in Atlanta, Georgia, U.S."
+  },
+  {
+    "id": "techcrunch",
+    "imageUrl": "https://i.postimg.cc/x1m1STWW/Tech-Crunch.jpg",
+    "name": "Tech Crunch",
+    "description": "TechCrunch is an American online newspaper focusing on high tech and startup companies."
+  },
+  {
+    "id": "google-news-in",
+    "imageUrl": "https://i.postimg.cc/1tmm60fQ/google-news.jpg",
+    "name": "Google News (India)",
+    "description": "The Google News Lab is a global team at Google whose mission is to collaborate with journalists."
+  },
+  {
+    "id": "abc-news",
+    "imageUrl": "https://i.postimg.cc/W4PbpcVt/abc.jpg",
+    "name": "ABC news",
+    "description": "ABC News is the news division of the American broadcast network ABC. Its flagship program is the daily evening newscast."
+  }
+]
